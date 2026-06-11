@@ -1,0 +1,4 @@
+HoopFlex es una herramienta de entrenamiento de baloncesto personalizada diseñada para ayudar a los usuarios a mejorar sus habilidades y realizar un seguimiento de su progreso.
+Aun no esta completa, le faltan algunas cosas, me gustaria integrar que en cada ejercicio haya un video explicativo de el que puedas ver, cuando inicias sesion te abre el mismo perfil siempre no importa que cuenta estes, eso necesito cambiar para que pueda tener multiples cuentas
+me gustaria mejorar el diseno, meter mas imagenes y mover los datos guardados a firebase porque ahorita estan en asyncstorage
+Por ahora la app funciona y hace lo que debe hacer pero le falta mucho, es un proyecto que quiero continuar

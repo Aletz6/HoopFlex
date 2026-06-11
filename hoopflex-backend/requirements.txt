@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+python-multipart
+pytest
+pytest-cov
+black
+flake8
+bandit
